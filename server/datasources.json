@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds217452.mlab.com",
+    "port": 17452,
+    "url": "",
+    "database": "heroku_vvbx0469",
+    "password": "nmanikumar5",
+    "name": "db",
+    "user": "manikumar",
+    "connector": "mongodb"
+  }
+}
