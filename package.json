@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "HandyTool",
   "version": "1.0.0",
   "main": "server/server.js",
   "engines": {
@@ -27,9 +27,13 @@
     "nsp": "^2.1.0"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "bitbucket",
+    "url": "https://nmanikumar5@bitbucket.org/nmanikumar5/handytool_node.git"
   },
-  "license": "UNLICENSED",
+  "author": "ManiKumar",
+  "contributors": [
+    "Mani Kumar <nkm@handytool.in> (http://handytool.in)"
+  ],
+  "license": "MIT",
   "description": "test"
 }
